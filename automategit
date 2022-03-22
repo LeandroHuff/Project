@@ -1,0 +1,17 @@
+#/bin/bash.sh
+
+echo "updating Resources repositore"
+cd Resources
+../scripts/gitacpp . "automated updates"
+cd ..
+
+echo "updating scripts repositore"
+cd scripts
+./gitacpp . "automated updates"
+cd ..
+
+echo "updating Project repositore"
+scripts/gitacpp . "automated updates"
+
+echo "Done."
+
