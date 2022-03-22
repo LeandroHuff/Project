@@ -25,7 +25,7 @@ utils/
   addcommitpush
   
 
-# Directories:
+# Directories
 
         app: Used to store all specific application code.
       build: Store compiled binaries from source code, it is used for development and tests, it isn't a release version.
@@ -43,7 +43,7 @@ utils/
       utils: Store many utilities tools that can be at binary format or another form of source code to help and improve development work.
        .git: A git directory to store commits and repository information.
 
-# Files:
+# Files
 
      .gitignore: Many tags used by git to ignore C and C++ common unecessary directories and files from a commit by git command.
         LICENSE: License text and disclaimer.
