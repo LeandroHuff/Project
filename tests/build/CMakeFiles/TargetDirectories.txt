@@ -1,0 +1,6 @@
+/home/leandro/Projects/Project/tests/build/CMakeFiles/sum.dir
+/home/leandro/Projects/Project/tests/build/CMakeFiles/sum_up.dir
+/home/leandro/Projects/Project/tests/build/CMakeFiles/c_test.dir
+/home/leandro/Projects/Project/tests/build/CMakeFiles/test.dir
+/home/leandro/Projects/Project/tests/build/CMakeFiles/edit_cache.dir
+/home/leandro/Projects/Project/tests/build/CMakeFiles/rebuild_cache.dir

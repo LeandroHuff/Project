@@ -1,0 +1,5 @@
+#! /bin/sh
+
+#compile the allegro source file example.
+gcc hello.c -o hello $(pkg-config allegro-5 allegro_font-5 --libs --cflags)
+
