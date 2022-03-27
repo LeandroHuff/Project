@@ -70,8 +70,21 @@ int main()
     return 0;
 }
 
+--------------------------------------------------------------------------------
 
+Build:
+
+  $ gcc hello.c -o hello $(pkg-config allegro-5 allegro_font-5 --libs --cflags)
+
+
+Run:
+
+  $ ./hello
+
+
+--------------------------------------------------------------------------------
 Download and Install:
+--------------------------------------------------------------------------------
 
 Ubuntu PPA
 
@@ -110,9 +123,6 @@ sudo apt-get install liballegro*5.2 liballegro*5-dev
 Debian-based distributions (Debian, Mint, Ubuntu, etc..)
 
 sudo apt-get install liballegro-ttf5-dev
-
-
-
 
 --------------------------------------------------------------------------------
 
